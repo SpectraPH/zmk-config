@@ -27,7 +27,7 @@
 
         three {
             bindings = <&mo 3>;
-            key-positions = <40>;
+            key-positions = <40 37>;
         };
     };
 
